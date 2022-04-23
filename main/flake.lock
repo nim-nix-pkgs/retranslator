@@ -64,7 +64,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
         "nre": "nre",
-        "src-retranslator-master": "src-retranslator-master"
+        "src-retranslator-main": "src-retranslator-main"
       }
     },
     "src-nre-2_0_2": {
@@ -84,19 +84,19 @@
         "type": "github"
       }
     },
-    "src-retranslator-master": {
+    "src-retranslator-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1650005782,
-        "narHash": "sha256-N8eIUVAEaDUDUKapoOtlbJYs3mxIbf+DEfygE6gDRx8=",
+        "lastModified": 1650109374,
+        "narHash": "sha256-rgpYTv/4vJwbNODna3zSggBGh1F90l9uOoq7nT1eQYY=",
         "owner": "linksplatform",
         "repo": "RegularExpressions.Transformer",
-        "rev": "0161d38509f2fd4d78fb7ef530901c3c909f21ea",
+        "rev": "d2465d2db090546679afc7212408dbecd37354b5",
         "type": "github"
       },
       "original": {
         "owner": "linksplatform",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/main",
         "repo": "RegularExpressions.Transformer",
         "type": "github"
       }
