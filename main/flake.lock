@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "2_0_2",
-        "lastModified": 1652798768,
-        "narHash": "sha256-OGIzeeF6t5X2sVtKhROtcM5dYqMDq0uBw12KWBttHF0=",
+        "lastModified": 1653699598,
+        "narHash": "sha256-m0mXPW8HEm8hZF9hnboenv/rXl6jHrSQwWLu620AW+w=",
         "owner": "nim-nix-pkgs",
         "repo": "nre",
-        "rev": "cfad3d291fabd0a0438be462c02c5ffba7293056",
+        "rev": "306b5e61a333c26eee616c624ba077bdaab587a1",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
     "src-retranslator-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1650109374,
-        "narHash": "sha256-rgpYTv/4vJwbNODna3zSggBGh1F90l9uOoq7nT1eQYY=",
+        "lastModified": 1653308207,
+        "narHash": "sha256-kr9MEPI8DqZHwX7mgJ1tEr7w31KmDChMwxFoolU0Qdg=",
         "owner": "linksplatform",
         "repo": "RegularExpressions.Transformer",
-        "rev": "d2465d2db090546679afc7212408dbecd37354b5",
+        "rev": "382747cc546bbdca1a8a9ad28e4d6e51f2c3ca75",
         "type": "github"
       },
       "original": {
